@@ -1,5 +1,7 @@
 # UniPy - LightGrid
 
+This is an old repo from a project back in 2023.
+
 A 9×9 addressable RGB LED matrix driven by an ESP32, controllable over USB serial or Wi‑Fi (UDP), with a 3D‑printable case.
 
 ![LightGrid wiring schematic](schematic/lg_schematic.png)
